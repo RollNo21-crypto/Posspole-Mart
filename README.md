@@ -204,5 +204,3 @@ The multi-vendor e-commerce platform is designed to connect buyers, sellers, and
 3. Partition database or enable sharding in MongoDB.
 
 ---
-
-This documentation ensures a comprehensive, scalable, and efficient workflow for your multi-vendor e-commerce platform. Feel free to reach out for clarifications or additional enhancements!
